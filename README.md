@@ -1,3 +1,8 @@
+# ADVISORY
+
+THIS FORK IS ONLY FOR TESTING THE SECURITY MONTIORING WORKFLOWS ON KNOWN GOOD CODE TO INVESTIGATE FALSE POSITIVE RATES. PLEASE DO NOT PUT IN PRODUCTION 
+
+
 # GRASSMARLIN
 
 GRASSMARLIN provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks to support network security. Passively map, and visually display, an ICS/SCADA network topology while safely conducting device discovery, accounting, and reporting on these critical cyber-physical systems.
