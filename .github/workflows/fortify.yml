@@ -24,7 +24,7 @@ on:
   push:
     branches: [ "master" ]
   schedule:
-    - cron: '33 17 * * 0'
+    - cron: '33 1 * * *'
 
 jobs:
   FoD-SAST-Scan:
